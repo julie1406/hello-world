@@ -1,6 +1,3 @@
 # hello-world
-Github tutorial
-This is test - my first commit
-
-By
-Julie
+Still playing with commits.
+I'm hoping to revert this one
